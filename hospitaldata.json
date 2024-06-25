@@ -1,0 +1,29 @@
+{
+    "hospitals": [
+        {
+            "name": "Punalur thaluk hospital",
+            "patientCount": 400,
+            "location": "thaluk street, punalur"
+        },
+        {
+            "name": "vijayas Multyspeciality hospital",
+            "patientCount": 580,
+            "location": "pulamon bridge, kottarakkara"
+        },
+        {
+            "name": "Mission hospital",
+            "patientCount": 300,
+            "location": "Anchal Road, Anchal"
+        },
+        {
+            "name": "Dheen hospital",
+            "patientCount": 260,
+            "location": "TB junction, Punalur"
+        },
+        {
+            "name": "The lifeline Hospital",
+            "patientCount": 450,
+            "location": "Pathanapuram Road, Adoor"
+        }
+    ]
+}
